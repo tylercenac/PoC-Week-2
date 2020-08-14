@@ -1,0 +1,210 @@
+[
+  {
+    "name": "James Gosling",
+    "jrss": "Java Full Stack",
+    "tags": ["Oracle", "Node", "Spring Boot"],
+    "notes": "25 years of experience",
+    "links": [
+      {
+        "name": "Github",
+        "url": "github.com/jamesgosling"
+      },
+      {
+        "name": "Resume",
+        "url": "https://ibm.box.com/s/1jordeuafclarcx38myv0ken3jiry"
+      }
+    ]
+  },
+  {
+    "name": "Bill Gates",
+    "jrss": "Microsoft",
+    "tags": ["Excel", "Office", "Word"],
+    "notes": "45 years of experience",
+    "links": [
+      {
+        "name": "Github",
+        "url": "github.com/billgates"
+      },
+      {
+        "name": "Resume",
+        "url": "https://ibm.box.com/s/1jordeuafclarcx38myv0ken3jiry"
+      }
+    ]
+  },
+  {
+    "name": "Aneel Bhusri",
+    "jrss": "Workday",
+    "tags": ["Pay", "Time"],
+    "notes": "15 years of experience",
+    "links": [
+      {
+        "name": "Github",
+        "url": "github.com/aneelbhusri"
+      },
+      {
+        "name": "Resume",
+        "url": "https://ibm.box.com/s/1jordeuafclarcx38myv0ken3jiry"
+      }
+    ]
+  },
+  {
+    "name": "Larry Ellison",
+    "jrss": "Oracle",
+    "tags": ["Oracle"],
+    "notes": "43 years of experience",
+    "links": [
+      {
+        "name": "Github",
+        "url": "github.com/larryellison"
+      },
+      {
+        "name": "Resume",
+        "url": "https://ibm.box.com/s/1jordeuafclarcx38myv0ken3jiry"
+      }
+    ]
+  },
+  {
+    "name": "Dietmar Hopp",
+    "jrss": "SAP",
+    "tags": ["SAP"],
+    "notes": "48 years of experience",
+    "links": [
+      {
+        "name": "Github",
+        "url": "github.com/jomyles"
+      },
+      {
+        "name": "Resume",
+        "url": "https://ibm.box.com/s/1jordeuafclarcx38myv0ken3jiry"
+      }
+    ]
+  },
+  {
+    "name": "Bill Gates",
+    "jrss": ".NET",
+    "tags": [".NET", "C#"],
+    "notes": "17 years of experience",
+    "links": [
+      {
+        "name": "Github",
+        "url": "github.com/billgates"
+      },
+      {
+        "name": "Resume",
+        "url": "https://ibm.box.com/s/1jordeuafclarcx38myv0ken3jiry"
+      }
+    ]
+  },
+  {
+    "name": "Jeff Sutherland",
+    "jrss": "Agile",
+    "tags": ["Agile", "Project Management"],
+    "notes": "19 years of experience",
+    "links": [
+      {
+        "name": "Github",
+        "url": "github.com/billgates"
+      },
+      {
+        "name": "Resume",
+        "url": "https://ibm.box.com/s/1jordeuafclarcx38myv0ken3jiry"
+      }
+    ]
+  },
+  {
+    "name": "Tyler Cenac",
+    "jrss": "Project Management",
+    "tags": ["Agile", "Project Management"],
+    "notes": "0 years of experience",
+    "links": [
+      {
+        "name": "Github",
+        "url": "github.com/tylercenac"
+      },
+      {
+        "name": "Resume",
+        "url": "https://ibm.box.com/s/1jordeuafclarcx38myv0ken3jiry"
+      }
+    ]
+  },
+  {
+    "name": "Alan Kay",
+    "jrss": "UI Development",
+    "tags": ["React", "MVC"],
+    "notes": "39 years of experience",
+    "links": [
+      {
+        "name": "Github",
+        "url": "github.com/tylercenac"
+      },
+      {
+        "name": "Resume",
+        "url": "https://ibm.box.com/s/1jordeuafclarcx38myv0ken3jiry"
+      }
+    ]
+  },
+  {
+    "name": "Jordan Walke",
+    "jrss": "React",
+    "tags": ["JavaScript", "Node", "React"],
+    "notes": "6 years of experience",
+    "links": [
+      {
+        "name": "Github",
+        "url": "github.com/tylercenac"
+      },
+      {
+        "name": "Resume",
+        "url": "https://ibm.box.com/s/1jordeuafclarcx38myv0ken3jiry"
+      }
+    ]
+  },
+  {
+    "name": "Misko Hevery",
+    "jrss": "Angular",
+    "tags": ["Angular", "Javascript", "UI"],
+    "notes": "9 years of experience",
+    "links": [
+      {
+        "name": "Github",
+        "url": "github.com/tylercenac"
+      },
+      {
+        "name": "Resume",
+        "url": "https://ibm.box.com/s/1jordeuafclarcx38myv0ken3jiry"
+      }
+    ]
+  },
+  {
+    "name": "Arvind Krishna",
+    "jrss": "Business",
+    "tags": ["Business"],
+    "notes": "30 years of experience",
+    "links": [
+      {
+        "name": "Github",
+        "url": "github.com/tylercenac"
+      },
+      {
+        "name": "Resume",
+        "url": "https://ibm.box.com/s/1jordeuafclarcx38myv0ken3jiry"
+      }
+    ]
+  },
+  {
+    "name": "Henry H. Arnold",
+    "jrss": "System Analysis",
+    "tags": ["System Analysis"],
+    "notes": "72 years of experience",
+    "links": [
+      {
+        "name": "Github",
+        "url": "github.com/tylercenac"
+      },
+      {
+        "name": "Resume",
+        "url": "https://ibm.box.com/s/1jordeuafclarcx38myv0ken3jiry"
+      }
+    ]
+  }
+]

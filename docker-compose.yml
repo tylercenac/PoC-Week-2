@@ -1,0 +1,29 @@
+version: '3'
+services:
+  db:
+    image: postgres
+    environment:
+      POSTGRES_PASSWORD: dbPassword
+      POSTGRES_USER: postgres
+      POSTGRES_DB: postgresDb
+    volumes:
+      - var/lib/postgresql/data
+    ports:
+      - '5432:5432'
+  api:
+    build: ./server
+    ports:
+      - '5000:5000'
+    #command: ['./wait-for-it.sh', 'db:5432', '--', 'npm', 'start']
+    command: sh -c "/wait && npm start"
+    environment:
+      WAIT_HOSTS: db:5432
+    depends_on:
+      - db
+  ui:
+    build: ./client
+    ports:
+      - '3000:3000'
+    depends_on:
+      - api
+    stdin_open: true

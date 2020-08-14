@@ -1,0 +1,14 @@
+[
+  {
+    "project": "Queue Manager",
+    "tags": ["React"]
+  },
+  {
+    "project": "News Website",
+    "tags": ["Node"]
+  },
+  {
+    "project": "COVID-19 Tracker",
+    "tags": [".NET", "Spring Boot"]
+  }
+]
